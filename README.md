@@ -23,7 +23,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 [<img align="left" alt="Nahom | Twitter" width="22px" src="https://www.svgrepo.com/show/157815/twitter.svg"/>][twitter]
 [<img align="left" alt="Nahom | LinkedIn" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg"/>][linkedin]
-[<img align="left" alt="Nahom | Instagram" width="22px" src="https://www.svgrepo.com/show/157806/instagram.svg/"/>][instagram]
+[<img align="left" alt="Nahom | Instagram" width="22px" src="https://www.svgrepo.com/show/157806/instagram.svg"/>][instagram]
 
 <br />
 
