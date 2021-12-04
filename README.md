@@ -1,14 +1,14 @@
-### Hi there, I'm Nahom Sentayehu 👋 
+## Hi there, I'm Nahom Sentayehu 👋 
 
 
 
-# Glad to see you here!
+### Glad to see you here!
 
 I am a full-stack software engineer and Network architect . I love programming and traveling.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-# Talking aobut personal Stuffs:
+### Talking aobut personal Stuffs:
 
 - 🔭 I’m currently working on something cool;
 - 🌱 I’m currently learning cyber security
@@ -21,9 +21,9 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 ## Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.svgrepo.com/show/157815/twitter.svg"/>][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg"/>][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src=https://www.svgrepo.com/show/157806/instagram.svg/instagram.svg"" />][instagram]
 
 <br />
 
