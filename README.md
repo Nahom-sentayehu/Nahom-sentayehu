@@ -48,3 +48,5 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 [twitter]: https://twitter.com/NahiSente
 [instagram]: https://instagram.com/Nahom_x
 [linkedin]: https://www.linkedin.com/in/nahom-sentayehu-29a471209/
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
