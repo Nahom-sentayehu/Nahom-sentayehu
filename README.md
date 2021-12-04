@@ -8,7 +8,7 @@ I am a full-stack software engineer and Network architect . I love programming a
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-### Talking aobut personal Stuffs:
+### Talking about personal Stuffs:
 
 - 🔭 I’m currently working on something cool;
 - 🌱 I’m currently learning cyber security
