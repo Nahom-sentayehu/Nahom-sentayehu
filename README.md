@@ -16,7 +16,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 💬 Ask me about tech related things
 - 📫 How to reach me: nahomsentayehu12@gmail.com 
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play drums
+- ⚡ Fun fact: I love to draw and play drum
 
 ### Connect with me:
 
