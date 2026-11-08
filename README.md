@@ -46,8 +46,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 
 
-
-
 [instagram]: https://instagram.com/Nahom_x
 [linkedin]: https://www.linkedin.com/in/nahom-sentayehu-29a471209/
 
