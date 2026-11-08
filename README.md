@@ -35,7 +35,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://www.svgrepo.com/show/303500/react-1-logo.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://www.svgrepo.com/show/378837/node.svg" />
+<img align="left" alt="Node.js" width="26px" src="https://www.svgrepo.com/show/378837/node.svg)" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/show/217753/github.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -48,7 +48,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 
 
-[twitter]: https://twitter.com/NahiSente
 [instagram]: https://instagram.com/Nahom_x
 [linkedin]: https://www.linkedin.com/in/nahom-sentayehu-29a471209/
 
